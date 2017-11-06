@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="A:\Progra\Android\SupNicolasCage\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b85ff40632df2f305970b107a80d2b50056dad1">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_65e627f2114abccc4b631b697d80b4b66f14d622\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_1d1dca9952c33196920c9c678e19cd8bd746132d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\a8de4414c40502c9d079da1fa96437f9324ae995\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_0ae58a2b43d6d099db5e97820e485ee2b0660d90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\99791fd7ee3dce64732ff3a82e2cb7f765b524ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_fe7a1f3265150f55b8e1be127d7584a6a14a263f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\f2cdf5966e330c1d77ff38960378f3ed2f32887e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_4cf0d08dcc89e008502d1f80f12f78eb3b77f62e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\fb652b3b7d15716b49aa6d6644d276120ebe2241\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_343cd02a8a20da0f867a9fc5cda8809544accb14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_80b19fc26291bd27a6af3c576fbb3ac64599d85a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\706ea14282956e09d350104a7741cdc356c62e8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_c0f9823a52a836b485f4afcfff3878fe42d912d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\04c40de9f34b19cb67e6dd52908d0b7fea01acf3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_1e2daf73dac40ea7b1cf35e3a6320cd30c022078.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\d77a4a305880f5e5107e8d298d0f37f88271fa07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="183fcbfcca75b095b63125f5e31ebd8b5f5f3216">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_02f57a9a85fa60b7d751bf85faa356f618e3ba89.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="A:\Progra\Android\SupNicolasCage\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3ef812d4a4a36f8ef46cd0255d87bcaa2b28d6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\847487796569fabbe1857d66380e6b37874d84d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_9b261c38f3ff4c2f09310f13a3a96d390be0d0e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\9772c8549411d1b71818ef284a22948d04e3e6b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_d18cbcfbf0a100190c687d82376731ca44367c37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\daa0435b5925fe7473c82c3aca203cb10067d830\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_c42e46c07f2342736d7f15237c443bfaff0b82dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Arca\.android\build-cache\e2217b51504a92bb8f9114bea12be4a8daa02415\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="A:\Progra\Android\SupNicolasCage\app\build\intermediates\pre-dexed\debug\classes_439bd5ae57ad0abfad11412f0ca2ab4063fc0212.jar" />
+    </item>
+
+</items>
